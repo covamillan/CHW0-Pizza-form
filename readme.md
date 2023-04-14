@@ -3,6 +3,7 @@
 En este challenge tenéis que hacer un formulario similar al del ejemplo utilizando JS, CSS y HTML.
 Requisitos:
 
+- Diseño accesible: checkboxes que permitan hacer check clickando el nombre.
 - HTML semántico, usando clases en lugar de ID y siendo estas descriptivas.
 - CSS adecuado, agradable para el usuario, respetando el espaciado.
 - Debe tener un favicon y título.
